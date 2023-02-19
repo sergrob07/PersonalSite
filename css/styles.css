@@ -8,7 +8,7 @@ h1, h3 {
 
 hr {
     border-style: dotted none none;
-    border-color: #red;
+    border-color: red;
     width: 5%;
     border-width: 5px;
 }
